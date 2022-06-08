@@ -1,0 +1,37 @@
+Job: Ventures
+Primary Location: Europe & Americas-United Kingdom-London
+Schedule: Full-time
+Employee Status: Permanent
+Posting Date: 15/Jun/2020
+Unposting Date: 29/Jun/2020
+ 
+SC Ventures (SCV) spearheads the bank’s innovation across the Group. Included in SCV’s mandate will be to invest in FinTech’s and other start-up companies, promote rapid testing and implementation of new business models. SCV will work with businesses and functions across the Group in three key areas of eXellerator, investments, and ventures
+ 
+Looking for a highly skilled AWS Devops specialist who shall be helping the development team building a distributed, highly scalable, micro-service platform from ground up.
+ 
+Your responsibility
+
+•            Develop a processes to enable teams to deploy, manage scale and monitor their applications in AWS cloud environment
+•            Deploy and manage monitoring tools for AWS infrastructure 
+•            Configure CI/CD pipeline
+•            Provision EC2 instances, databases, application containers for development team
+•            Maintain development, Integration, Client Integration (business hours of Development Team) and HotFix environments (24x7). 
+•            Works closely also with Production Support teams to ensure streamlined transition
+•            Propose solution, setup and maintain development repository, naming conventions such as to ensure traceability of developments with releases in production in order to facilitate internal and external audits
+
+Skill Required
+
+•             Passion for automation, standardization and best practices
+•             Excellent understanding of Software Development Life Cycle, Test Driven Development, Continuous Integration and Continuous Delivery
+•             Experience working with high availability, high performance, high security, multi- data centre systems 
+•             Hands on experience in shell scripting
+•             Ability to troubleshoot complex issues ranging from system resource to application stack traces
+•             Experience with Git version control systems. Branching/version strategies etc. 
+•             Strong working experience/expertise in Infrastructure as code and Infrastructure Automation
+•             Experience with AWS Cloud platform and the tools. 
+•             Hands on experience in configuring CI/CD pipeline using Jenkins and AWS native tools. 
+•             Strong working experience/expertise in Container Concepts (docker, kubernetes, etc)
+•             Hands on knowledge with configuring Docker, Kubernetes, Jenkins and SonarQube
+•             Comfortable with Agile methodologies and working closely with product development teams 
+•             AWS certification
+

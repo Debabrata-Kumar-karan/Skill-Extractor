@@ -1,0 +1,19 @@
+Responsibilities
+    • Write “clean”, well-designed code
+    • Produce detailed specifications
+    • Troubleshoot, test and maintain the core product software and databases to ensure strong optimization and functionality
+    • Contribute in all phases of the development lifecycle
+    • Follow industry best practices
+    • Develop and deploy new features to facilitate related procedures and tools if necessary
+Requirements
+    • Proven software development experience in PHP
+    • Understanding of open source projects like Joomla, Drupal, Wikis, osCommerce, etc
+    • Demonstrable knowledge of web technologies including HTML, CSS, Javascript, AJAX etc
+    • Good knowledge of relational databases, version control tools and of developing web services
+    • Experience in common third-party APIs (Google, Facebook, Ebay etc)
+    • Passion for best design and coding practices and a desire to develop new bold ideas
+    • BS/MS degree in Computer Science, Engineering or a related subject
+
+Job Summary: 
+
+    • The Performance Management Analyst must identify, lead, and support strategic and performance initiatives for NRG’s Energy Retail business. In this role, you will need to be highly analytical, strong problem solver, and effective communicator. You must thrive in a fast-paced environment, possess a high level of intellectual curiosity, and focus on generating results. To support and drive financial and operational performance of NRG’s businesses, the candidate will perform a diverse range of assignments, projects, and activities related to financial planning, supply management, and portfolio optimization. Additionally, the incumbent will be expected to challenge existing business practices, propose workable solutions, and drive initiatives

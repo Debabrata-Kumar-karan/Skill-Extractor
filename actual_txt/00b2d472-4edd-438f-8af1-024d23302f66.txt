@@ -1,0 +1,435 @@
+Curriculum Vitae 
+
+
+
+Asreen A. Khopekar (Kapde)
+
+		                                                307/308 Basera Apartments Plot No: 11,
+
+		                                           Sector 17, Vashi Navi Mumbai-400703                                                                                                 
+
+: 91 - 9819578543 / 27880216
+
+E-mail: asreenk@gmail.com
+
+		
+
+
+
+
+
+Career Objective					
+
+
+
+To make a significant contribution in an environment that provides opportunities for professional growth and increasing responsibilities. More importantly working in a team to bring forth the best from self and everyone. 
+
+
+
+
+
+
+
+Work Experience	
+
+
+
+Company Name   :   Khopekar & Sons, Family Business (Transport Company)
+
+
+
+       Date of Joining    :    September 2012 till Date
+
+
+
+        Role & Responsibility: ADMIN Related work
+
+
+
+
+
+Company Name   :   Accenture services Pvt Ltd. (India)
+
+
+
+       Date of Joining    :    28th August    08 till 10th September 2012
+
+
+
+					       Location	             :      Mumbai
+
+					
+
+					        Designation          :      Software Engineer
+
+ 
+
+      Technology          :     SAP Security
+
+
+
+					Experience as SAP Security Consultant for 4+years
+
+					Trained in SAP Basis From Accenture Services Pvt Ltd
+
+
+
+
+
+      Project Details: 
+
+
+
+       Client                    :    BHP-Billiton 
+
+
+
+       Project Type         :   Support project
+
+ 
+
+       Application           :   SAP R/3 security
+
+
+
+					
+
+					      
+
+					
+
+					
+
+					
+
+					 Description:
+
+					
+
+					BHP Billiton is a global leader in the resources industry with 41,000 employees working in over 100 operations in 25 countries. BHP Billiton occupies significant positions in major commodity businesses, including aluminum, energy coal and metallurgical coal, copper, manganese, iron ore, uranium, nickel, silver and titanium minerals, and has substantial interests in oil, gas, liquefied natural gas and diamonds. The central tenet of the BHP Billiton business model is its diversified portfolio of high quality assets providing stable cash flows and an enhanced capacity to drive growth.
+
+					
+
+					Role		:	SAP Security Administrator
+
+					
+
+					Responsibilities:
+
+    
+
+SAP Single User Creation, Deletion and Modification (SU01)
+
+SAP Mass User Creation, Deletion and Modification (SU10 and LSMW)
+
+SAP Role Creation, Deletion and Modification (PFCG)
+
+SAP User Group Creation, Deletion and Modification (SUGR)
+
+Checking and Analyzing Authorization for Users (SU53 & SU56)
+
+Different kinds of reporting for Clean up activity and for SOX Audits using several SAP Tables (SE16)
+
+Guiding the Team on communication with client and process (prepared Mail template)
+
+Worked on analyzing the user request & assign it to appropriate person
+
+Prepared process document on SAP Role Creation, Deletion and Modification
+
+Given presentation on System Trace (ST01)
+
+Prepared Checklist for the Team which ensures work is done correctly as per the process.
+
+					Project & Role Description 
+
+					
+
+					Extensive experience in SAP Security Administration & Authorization including Activity Groups, Profile Generator (PFCG), Employee Self Service(ESS) 
+
+					Experience in Creating, Modifying, Maintaining and transporting roles (Single, Composite and Derived)
+
+					Expertise in Security Administration in *SAP R/3, BW, HR, SRM, CCMS, XI, Portal with SOX* (Sarbanes Oxley) Compliance.
+
+					Extensive knowledge of all aspects of SAP Security and Authorizations, User Tracing, Troubleshooting, *SOD*.
+
+					Setting up a New User/ Deleting an existing user, locking/ unlocking a user, resetting password, maintaining a user and work on profile according to need(s). 
+
+					Set up and administration of Fire-fighter (Service user ids,communication and reference userID's).
+
+					Day to day technical support and resolution of security issues and implementation of role based security.
+
+					Mass user maintenance through SU10 and handling user issues through SU53 and ST01.
+
+					Interacted with teams and SAP Super users to define roles for Activity-based security 
+
+					Support user in determination and resolving authorization related issues. 
+
+					Background Jobs administration. 
+
+					Creation and effective use of LSMW scripts
+
+					Worked with Tcodes SE09,SE03 ST22
+
+					Worked on Bug fixes
+
+					Identity Management 
+
+					User and Role administration using SU01, PFCG and RSECADMIN in BI
+
+					Fluent with the usage of Structural Authorizations and Position based security using PO10, PO13, PA20, PA30, PA40 in HR.
+
+					
+
+
+
+    An active member of the following:
+
+
+
+Operation Team: Solve request which are assigned to me
+
+SARAB Team: Use to analyze each and every request, checking all the approvals in place as per process and assign the tickets
+
+Enhancement Team: SAP Role Creation, Modification and Deletion 
+
+Trouble Ticket Team: Solve the trouble tickets assigned to me
+
+Celebration Team: Organize events, Birthday Bashes, Gifts, Parties, celebrations of each team member
+
+GPTW Team: Use to organize events at organizational level
+
+
+
+
+
+
+
+Academic Qualification
+
+
+
+
+
+
+
+
+
+Certificate/Degree
+
+
+
+Year of  Passing
+
+  
+
+Name of  Institution/University
+
+   Result
+
+   Grade
+
+
+
+B.Sc.(IT) VI sem
+
+April-2008
+
+Lala Lajpatrai College/ Mumbai
+
+70.00%
+
+   First
+
+B.Sc.(IT) V sem
+
+Nov-2007
+
+Lala Lajpatrai College/ Mumbai
+
+64.40%
+
+   First
+
+H.S.C
+
+Mar-2005
+
+Lala Lajpatrai College/ Mumbai
+
+73.17%
+
+   First
+
+S.S.C
+
+Mar-2003
+
+St. Isabel   s High School / Mumbai
+
+67.60%
+
+   First
+
+
+
+
+
+
+
+
+
+
+
+Technical Expertise
+
+
+
+SAP
+
+R/3 Security, HR Security, BW Security, SAP GRC (RAR and CUP)
+
+Windows Applications
+
+Microsoft Excel, Word, PowerPoint 
+
+Languages
+
+C, C++, JAVA, VISUAL BASIC, C#, HTML, (College subjects)
+
+Front Ends
+
+Visual Basic 6.0
+
+Database
+
+SQL, MS Access
+
+Operating Systems
+
+		 Windows XP
+
+Application Tools
+
+		Fire-Fighter Tool, Ticketing Tools like Service Management Suite (SMS), ITSM, Quality Center (QC)
+
+
+
+
+
+
+
+
+
+Additional Qualifications	
+
+
+
+
+
+ITIL V3 certification foundation course from Accenture
+
+
+
+Greenfield training and certification from Accenture 
+
+
+
+Certificate in Computer Repairing from Gurukul Technical Classes.
+
+
+
+
+
+
+
+
+
+Project Handled in Academic Year in College
+
+
+
+Project Name               :   V-Works  - The Complete Database Management System.
+
+Company Name           :   Addonix Technologies Pvt  Ltd.
+
+Front End                     :   VB .NET.
+
+Back End                      :   SQL server 2000.
+
+Objective                      :   To manage the records of Leads and Sales, Technical                                              
+
+	                                          Support, Customer Relationship and Management.
+
+	
+
+Qualities		
+
+
+
+	
+
+	My Positive Attitude and analytical skills helps me in resolving complex & overbearing issues.
+
+	Commitment to work creates integrity and responsibility while discharging my duties.
+
+	The urge to excel is a driving and motivating factor which enhances my performance.
+
+
+
+
+
+
+
+Strength		
+
+
+
+
+
+	Can independently handle any assignments 
+
+	Flexibility to work as a Team member 
+
+	As a self motivator, I also have the necessary skills to motivate a team
+
+	Always ready to take initiatives
+
+
+
+
+
+
+
+
+
+
+
+Personal Information	
+
+
+
+Date of Birth		:	10th June 1988
+
+Marital Status		:	Married
+
+Languages Known	:	English, Hindi, & Marathi
+
+Nationality 		:	Indian 
+
+Hobbies                      :	Reading Newspaper, Interacting and 					Socializing.
+
+Passport No.              :           	R1557264
+
+
+
+
+
+Extra curricular activities	
+
+
+
+Participated in school and college sports and have won many certificates in athletics in school.
+
+Participated in essay contest held by the indo-Japanese Association.
+
+Participated in the cultural program held in school and college.

@@ -1,0 +1,169 @@
+ANUJ KUMAR SINGH
+
+ 9540582333  |anujrajput3333@gmail.com
+
+Objective
+
+        Aspiring to seek challenging position in the organization, where I can enhance and utilize my knowledge & skills in the growth of the Organization.
+
+Professional Profile 
+
+Currently Working with MetLife GOSC, Noida as Senior Associate Testing since February 2018.
+
+Previously worked with Promien Consultancy Services Pvt. Ltd, Noida as Software Test Engineer from July 2015 - 19-February-2018
+
+     Profile Summary
+
+Having 4 years    experience in all phases of software testing (STLC) from requirements gathering to post-implementation as a Manual tester.
+
+Having 2 year experience in Automation testing using Selenium.
+
+Experience in developing Automation Scripts, Execution of scripts, Designing and development of Automation Framework
+
+Good understanding and Experience of all the phases of software testing life cycle including Requirements gathering, Test design, Test Execution, Defect tracking & Test Summary report and worked on projects where Agile methodologies were followed.
+
+Good understanding Agile Methodology.
+
+Experience in Automation tools like 
+
+Selenium-Java
+
+Test management tools like HP ALM, Team Foundation Server.
+
+Experience in Automation framework like:
+
+TestNG
+
+QMetry
+
+Skill set 
+
+Microsoft Windows
+
+Operating System	
+
+Java
+
+Programming Languages
+
+Test Automation with Hybrid Approach
+
+Testing Methodologies
+
+Selenium
+
+Testing Tool
+
+TestNG
+
+QMetry
+
+Automation Testing Framework
+
+HP ALM, Team Foundation Server
+
+Test Management Tool
+
+Education
+
+be  |  2013  |  IEC COLLEGE OF engineering & TECHNOLOGY
+
+I completed B.Tech [EE] with 6.37 CGPA (I don   t restrict myself to EE and happy to explore a lot!).
+
+I completed my 12th with 82% in "D.A.V. PUBLIC SCHOOL".
+
+I completed my 10th in "D.A.V. PUBLIC SCHOOL" along with 83.6%.
+
+Communication
+
+I had voluntarily presented myself in Speaking and Debate in my college.
+
+Languages known:  English and Hindi.
+
+
+
+Project Details
+
+1. Project: Annuity Customer Experience     ACE (Insurance Application)
+
+Duration: 	February 2018     till date
+
+
+
+Description: 	ACE is an insurance based application which is developed to transform the legacy system into a web based application so that work can be done in more user-friendly way. 
+
+Was involved in Functional and Web application testing of the application.
+
+
+
+
+
+2. Project: Act-Time
+
+Duration: 	August 2015 - July 2016.
+
+
+
+Description: 	The    Act-Time    is web based application where the details of the ongoing project within the company and the details of the vender company is managed the part of managing the details of the client and project is very crucial because it manages the details of what we are doing, for whom we are doing and why we are doing.
+
+This application helps project teams as it cuts down the manual paper work required otherwise to keep track of project information. Also, it facilitates to keep project documents updated and within authorized access which otherwise would have been time consuming with more manual error chances.
+
+
+
+3.  Project: ECMS
+
+Duration: 	September 2016 - till date
+
+
+
+Description: Human Resource Solution is basically Employee Management Software where an authorized person (HR Manager) can create entry for new employee, view existing employee details, delete existing employee and edit employee details (personal and professional). It is the application that helps HR Manager to manage leave details of employees as they can approve or reject the applied leave of employee as well as can print the complete leave details of employee. It can also print Employees attendance. HRS manages complete recruitment process in an organization as view applicant details, search applicant, meeting scheduling for interview with complete detail of interview, contract information and hire employee.
+
+
+
+Role and responsibilities in above projects:
+
+Preparation of test cases using SRS.
+
+Requirement Analysis in co-ordination with development.
+
+Performing Regression Testing in each release.
+
+Preparing and executing test cases.
+
+Performing smoke testing, integration testing, system testing, functional testing, regression testing.
+
+Updating Test Cases based on review comments.
+
+Bug Tracking and reporting using BugZilla, HP QC, Team Foundation Server.
+
+Apart from Work 
+
+ACHIEVEMENTS 
+
+Qualified  GATE 2014 with AIR     4242.
+
+Participated in various communities Team Work Programs held in school.
+
+Served as school prefect in 2008.
+
+Served as House Captain in school.
+
+Took part as event organiser during college.
+
+
+
+                     The above-furnished information is true to the best of my knowledge and belief.
+
+Place: 	GHAZIABAD	                                                                                                           Yours Sincerely, 
+
+                                                                                                                                                    (ANUJ KUMAR SINGH)
+
+
+
+
+
+Page 3
+
+
+
+Page 1

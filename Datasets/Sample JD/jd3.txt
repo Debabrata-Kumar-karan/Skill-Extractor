@@ -1,0 +1,21 @@
+Roles and responsibilities)
+    • 10 years’ experience in Java and J2EE application development in a web environment
+    • Min 5 years of Architecture, design experience with Frameworks such as Spring, Spring Boot, Micro service Architecture is a must
+    • Min 3 years of Technical Lead experience
+    • Strong expertise in Core Java, Collections
+    • Good Knowledge and experience in Oracle or SQL Server
+    • Provider- AND consumer-side programming using Java Web Services and XML
+    •  Web Services using protocols like SOAP
+    • Good understanding of Object Oriented analysis and design using common design patterns
+    • Understanding of SSO concepts
+    • Experience with multi-tier (App / Web / DB) server architecture
+    • Good understanding of build/deployment tools like SCM, Maven, ANT
+    • Experience in Financial domain is a plus
+ Job Specification
+    • Built MVC based Web Application Using JSP/Struts framework
+    • Technical requirement for 'Core Java’: Exception handling, Collections API, Multithreading with latest concurrency package, Best practices (such as avoiding code duplication, avoiding hard coded values etc.), Design patterns and UML Concepts
+    • Good knowledge of OOPS concepts, Hibernate and Spring version 3.x 1, Spring Dependency Injection (IOC, MVC, JDBC, JMS, etc.)
+Primary Skills
+Core Java, Spring (MVC, IOC, Boot), Micro service Architecture and Restful API.
+Experience: 9- 12 years
+Must Have Skills – Java Architect, RFP, RFQ, Java Framework, Java Solution Architect, Java Technical Architect, Technofunctional Architect, Techno-functional Architect, Techno functional architect

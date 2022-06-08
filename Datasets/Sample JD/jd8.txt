@@ -1,0 +1,22 @@
+Overview
+The team is looking for a Software Development Engineer in Test to test its microservices-based platform. The ideal candidate is the one who is passionate about driving high-quality product delivery by writing robust testing suites for a highly scalable, highly available enterprise-grade payment application.
+Role
+    • Write test scenario & test cases for Enterprise Application, within schedule and within estimated efforts.
+    • Provide an estimate for the assigned task
+    • Write automated component, Integration & E2E test cases
+    • Review unit test cases written by developers and fix minor code defects
+    • Provide accurate status of the tasks
+    • Comply with organizations' processes. Policies and protects organizations Intellectual property. Also, participate in organization level process improvement and knowledge sharing
+All About You
+Essential Knowledge, skills & attributes
+    • Hands-on experience in writing Test scenarios & Test cases for Enterprise applications
+    • Hands-on experience with core Java, Junit, JBehave, Spring Boot, SQL, RDBMS (Oracle and Postgres), NoSQL (Cassandra), Web-services (JSON and SOAP) & tools like Postman, SOAPUI
+    • Hands-on experience of a testing microservice application
+    • Experience in working with Agile methodologies.
+    • Personal attributes are strong logical and Analytical Skills, should be able to articulate and present his/her thoughts very clearly and precisely in English (written and verbal)
+    • Knowledge of Security concepts (E.g. authentication, authorization, confidentiality, etc.) and protocols, their usage in enterprise application
+Additional/Desirable capabilities
+Experience of working in Payments application Domain
+Hands-on experience of working with tools like Mockito, JBehave, Jenkins, Bamboo, Confluence, Rally
+
+

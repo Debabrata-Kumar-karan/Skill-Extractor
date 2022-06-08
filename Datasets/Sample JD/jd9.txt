@@ -1,0 +1,102 @@
+
+
+Role title:
+Engineer/Sr. Engineer (Change Management)
+Colt Level:
+PT2
+Function:
+Operations & Engineering (Customer Experience – Service Operations)
+Reports to:
+Team Leader/ Manager
+Location:
+Bangalore
+
+Role purpose
+At Colt we are changing the perception of our business and industry sector. As part of this transformation we are growing new services and teams to facilitate and drive the business to the next level.
+Colt provides world-class network and communications services to information–intensive businesses across Europe, Asia and North America. With local market understanding and global reach - Colt is big enough to deliver and small enough to care. 
+To support the Change Management team under the guidance of technical leads and basic support to Colt customers by adhering to established governance policies and procedures from time to time.
+
+Key accountabilities
+Sub Section 1
+    • Works towards constant innovation and cost savings for the organisation
+    • Assists with the production of schedules of requests for change (RFC) for managing changes to the live infrastructure
+    • Transcribes data on to the change management database, ensuring accuracy and consistency of data
+    • Carries out simple enquiries on the status of changes, using the change database where appropriate
+    • Contacts clients/users to raise queries and provide information, entering details on to the client/user database where appropriate
+    • Circulates change documentation to a defined distribution of clients/ users
+    • Assists with the provision of awareness material to clients/users to explain the importance of a structured change management process
+    • Acts as secretary to meetings that review changes, such as change advisory boards
+    • Sends notification to our customers for all traffic affecting maintenance
+    • Answers all customer question related to a specific maintenance
+    • Manages in collaboration with PW team and BRM/AE/SM any request for cancelation or rescheduling of a maintenance
+    • Updates customer contact data base
+    • Participates in process improvement
+    • Participates in UAT’s as required
+
+Sub Section 2
+    • Orientation on how to handle all kind of dispute, Customer data management and other commercial/ technical related enquiries
+    • Has flair to perform complex tasks and ability to find solutions self-contained in a timely manner
+    • Ready to work within a team with full responsibility of fixing the issues that are impacting customers on regular basis. This includes ownership, coordinating and managing the issues on daily basis
+
+Other accountabilities (optional)
+    •  
+
+Key performance indicators (financial and non-financial)
+    • Number of Scheduled Changes
+    • Number of Failed Changes
+    • Number of changes that caused  Incidents
+    • Number of Changes which overran the scheduled implementation window
+    • Number of Rescheduled Changes
+    • Number of Emergency Changes
+    • Number of Expedited Changes
+    • Timely notification to customers
+
+Relationships and key contacts
+    • Technical Assurance Centre Teams
+    • Business Support Planned Work Advisors Team
+    • Network Operation Centre Teams
+    • Carrier Relationship Management Team
+    • Service Managers
+    • DCS Team
+    • Carriers/ OLOs
+    • Service Desk Teams
+    • Internal IT Support Teams
+    • Service Delivery Teams
+    • Incident Management Team
+    • Problem Management Team
+
+Role specific requirements
+Skills & Experience
+    • Mandatory –
+    • 2 to 3 years in Change Management process/Technical profiles
+    • 24*7
+    • Desirable -
+    • Knowledge of Telecom networks, infrastructure, data centres, topologies and technologies
+    • Knowledge of MS Office products (Excel, Word, PowerPoint, Outlook, SharePoint)
+    • Proficiency on any ticketing tool (preferably Oracle Siebel/ Remedy7)
+    • Can-do attitude, delivers with pace and energy. Organised and on top of commitments.
+    • Curious, enquiring, keen to learn. Flexible and  adaptable,  raises ideas
+Qualifications
+    • B.Tech/Diploma/BCA or equivalent
+    • ITIL foundation Certified
+
+Behaviours
+
+
+    • Customer First - You put the customer at the centre of everything you do (You Care, are Professional and you Keep it simple)
+    • Accountability - You are responsible to deliver to our commitments (You are transparent, you take ownership and demonstrate initiative)
+    • Transformational – You embrace the need for Colt to change the way we do things to grow (You are resilient, you challenge and have an appetite for Risk)
+    • Outcome Focused - You focus on the result we want to achieve, while engaging others to do so demonstrating high levels of collaboration, vision and reflection.
+
+Others
+Is  aware of 
+
+    • Information security, business continuity, quality and other ISO or equivalent policies/ industry standards and discharge duties against them as appropriate.
+    • Identify risks related to process and information security and treat/ mitigate the same as appropriate
+
+
+
+
+
+
+

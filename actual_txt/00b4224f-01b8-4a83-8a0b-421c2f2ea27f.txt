@@ -1,0 +1,247 @@
+Mohit Bali
+
+Professional Summary:
+
+
+
+8+ years of Project Management experience for IT Infrastructure and Application Management projects
+
+Enthusiastic about learning and exploring upcoming technologies 
+
+Exposure of managing IT Transformation projects in various geographies including America, Europe, India
+
+Strong interpersonal, written and verbal communicator. Lead several business presentations
+
+Ability to lead large cross functional teams of people with diverse backgrounds/geographies to implement global projects
+
+
+
+Education : 
+
+
+
+MBA (Information Technology)  2011, CGPA - 8.34 (Out of 10)- Thapar University
+
+
+
+
+
+
+
+Bachelor of Technology (Computer Science Engineering), 2009, with 70%
+
+Technical  Qualifications/
+
+Trainings:
+
+
+
+PRINCE2: Foundation and Practitioner (certified by APMG)
+
+Young Leaders Development Program 2017-18 (sponsored by PwC)
+
+ITILv3: Foundation and ITILv3: PPO module (certified by EXIN)
+
+Six Sigma: Yellow Belt (certified by HCL) and attended training for Green Belt
+
+Blockchain Essentials online course and certification (certified by IBM)
+
+AWS Business Professional Training/Accreditation
+
+Attended Robotic Process Automation(RPA) workshop and attained RPA Implementation Methodology certificate from UiPath
+
+HGPMM: HCL Global Project Management Methodology (certified by HCL)
+
+R Studio(basics) and MS Office Suite including MS Project
+
+MCP: Microsoft Certified Professional (certified by MS)
+
+
+
+
+
+Achievements:
+
+
+
+Received We Applaud award during PwC Town Hall 2019
+
+Received an accolade and certificate from client management and HCL (Executive Vice President) for my performance in Global (Europe, North-South Americas) IT Infra Transitioning for one of world's largest snacks companies(Mondelez)
+
+Nominated several times as HCL Employee of the Quarter for my contribution in global projects engaged
+
+Received Certification of Appreciation from HCL RDU (Regional Delivery Unit) head for my performance in the Regional PMO
+
+Nominated as HCL DU (Delivery Unit) Level PMO SPOC in 2013; direct interaction with HCL Sr. Management across multiple global accounts
+
+Proposed B-plan (Lean Six-Sigma) regarding recycling of paper (accepted by Dean, Thapar University)
+
+
+
+Work Experience
+
+
+
+Senior Consultant at PwC India
+
+Oct, 2017     Present
+
+Sub-sets: IT Project Management, Technical Consulting, Client and Team Management
+
+Client: DBT Mission, Cabinet Secretariat, Government of India
+
+Managing end-to-end technology ecosystem for DBT Bharat Portal(having real time DBT data across PAN India) with a team of 7 technical members
+
+Enabling and managing integrations(through webservice) with State DBT Portal, Departments/Ministries MIS and other entities
+
+Participating in various Ministries/Department/State meetings(onsite, Video-conferences, offshore) for brainstorming DBT related technology architecture and integration implementations
+
+
+
+Senior Consultant at PwC India
+
+Sep   17-Oct   18
+
+Client: BMGF(Bill and Melinda Gates Foundation)
+
+Sub-sets: Technical Documentation, Secondary Research, Management Consulting
+
+Documented paper (Digital Health Vision and Architecture for India) for presenting a case for investing in Digital Health in light of India   s health context
+
+Part of the team for doing secondary research and documentation(including statistics) of existing health systems in India
+
+With reference to secondary research as well as existing challenges in current scenarios health systems scenario, identification of 6 levers have been done for strengthening India   s health systems
+
+
+
+Senior Consultant at PwC India
+
+Sub-sets: Proposal Submission, Proposal Presentation, Technical Consulting
+
+Client: Tribal Affairs Department, Madhya Pradesh, India
+
+Aug   18 - Sep   18
+
+Worked on proposal for Payment and Fund Management automation system
+
+Proposed functional as well as technical solution offering 2 scenarios
+
+
+
+Project Manager at HCL Technologies
+
+Jan 2017 - Sep 2017
+
+Client : HAVI     Marketing analytics, packaging, supply chain management and logistics (Germany)
+
+Managed day-to-day operational aspects of Network Transformation of $2 million
+
+Successfully implemented IT governance and Program Management processes for streamlining the delivery of multiple projects to agreed performance parameters
+
+Additionally, conducted an end-to-end POC for Cloud Proxy solution with Europe and Asia key stakeholders; and got final sign-off for the full-scale implementation
+
+
+
+Project Manager at HCL Technologies
+
+Apr 2016 - Jan 2017
+
+Client : Mondelez     one of World's largest snacks companies (UK, US)
+
+Successfully completed transition project across America and Europe continents 2 weeks ahead of schedule
+
+Reduced 20% of reserve cost with efficient and periodic risk management techniques by maintaining RIA (Risk Issues Action) tracker 
+
+Improved customer satisfaction by 25% by empowering cross functional teams and facilitating team meetings to communicate progress, project status and issues
+
+Effective communication management by regularly updating Stakeholders list to avoid unnecessary communication channels and thus improving project performance
+
+
+
+Project Manager at HCL Technologies
+
+Mar 2016 - Mar 2017
+
+Client : JTI     leading international tobacco product manufacturer (Switzerland, Russia)
+
+Managed DC and EUC domains migration project of 2000 servers worth $5 million
+
+Handled project portfolio of 5 million worth of revenue
+
+Successfully executed 40+ EUC and Infra projects, delivering on time and budget constraints
+
+Developed project scope and objectives, involving all relevant stakeholders and ensuring technical
+
+feasibility
+
+Establish strong relationship with vendors leading to trust, rapport, cooperation and exceptional
+
+reliability
+
+
+
+Project Manager at HCL Technologies
+
+Jan 2015 - March 2016
+
+Client : Bombardier     Multinational Aerospace and Transportation (US, Canada and Germany) Implemented Windows 10 user migration project of 20,000 users across US, Canada and Europe region
+
+Also provided $250K of ROI to customer by refurbishing their hardware assets through HCL vendors 
+
+Increased the per day success rate of AD and mailbox migration
+
+Was part of MBF (Management By Fact; sponsored by HCL Sr. Management) program for gap-analysis(CSI), identifying/proposing SIPs and getting them implemented
+
+
+
+Assistant Project Manager at HCL Technologies
+
+Jan 2013 - Dec 2014
+
+Client : Sensata- High-Tech Engineering, Semiconductors (US) 
+
+Completed the IT infrastructure transition of $4 million project from incumbent to HCL
+
+Utilized project management process/templates to ensure that the requirements are understood and the delivered solution is as per the requirements(RTM)
+
+Coordinating for monthly recurring internal audit (HCL Ops-Hi5 Audit: validating critical operations parameters) and an SSAE 16 Type B (external auditor)
+
+
+
+Project Coordinator at HCL Technologies (On-Campus Placement)
+
+Aug 2011 - Jan 2013
+
+Client : PTC     computer software and services company  (US)
+
+Accountable for all PMO activities like billing, performance, headcount, roaster and inventory management
+
+Assisted onsite and offshore project managers for planning as well as executing the Data center migration using project management best practices; and BAU projects
+
+Independently handled meetings with clients on change management, fortnightly and monthly SLA meeting
+
+Created monthly progress reports and communicated results to relevant stakeholders
+
+
+
+Technologics and Controls (Off-Campus Placement)
+
+Apr, 2011     Aug, 2011
+
+Business Development Executive
+
+Sub-sets: Project Management, Market Research
+
+
+
+Personal Detail:
+
+Multiple entries Business-Visa for US
+
+Hometown: Delhi, India
+
+Mobile: +91-999-973-6477
+
+E-mail:  mohit.bali87@gmail.com
+
+Linkedin Profile: http://in.linkedin.com/in/mohitbali

@@ -1,0 +1,228 @@
+
+Mayuri Ratnakar Mandhale(1).docx
+
+
+
+
+
+Name: Mrudula Mahadik
+Mob No: +91 9987507979
+			                                                          Email: msppath91@gmail.com            
+
+
+Objective
+
+I am a Software Engineer with 5.3 years of professional experience in Informatica and SQL,PL/SQL,UNIX currently looking for challenging and paced environment that will allow me to implement on my ETL and oracle skills and work in a collaborative manner.
+
+Summary
+
+  5.3 years of IT experience in ETL, SQL, PL/SQL,UNIX,Scheduling tools and Business Intelligence Applications.
+  Experienced with Development, enhancement as well as testing in DW projects.
+  Hands on Extraction, Transformation, Loading (ETL) data from various sources into Data Warehouses and using Informatica Power Centre to do so.
+  Skilled in resolving technical queries that occur during Testing or after go live as part of production support.
+  Experienced in all stages of software engineering life cycle including requirement gathering, implementation, unit testing and build release.
+  Skilled developer of ETL, Scheduling tool like Dollar universe, SQL and PL/SQL using Data Warehouse concepts.
+  Experience in Performance Tuning for Mapping by configuring different parameters for a
+ETL Mapping. 
+  SQL performance tuning.
+  Good knowledge of BO reporting tool.
+  Have knowledge on Informatica cloud and Informatica MDM. 
+  Good communication and interpersonal skills and ability to work individually as well as team member.
+  Self-motivated and adaptable to demands of project in terms of new requirements, meeting deadlines, delivering quality output. 
+
+Technical Skills
+
+	ETL
+	Informatica Power Center 8.6/9.5/9.6.1/10.0.0
+
+	Databases
+	Oracle 10g/11g
+
+	Languages
+	SQL, PL/SQL
+
+	Operating Systems
+	Windows
+
+	Other Software Tools
+Web Technologies
+Other
+	$ Universe, Toad, Remedy, Kintana, Artifactory
+BO
+BO 4.0,Unix, Shell Scripting, Have knowledge on Informatica cloud and Informatica MDM. 
+
+
+
+Professional Experience
+
+Company Name : Delta Technologies
+
+Project Name :   Financial Inclusion and Development Department(FIDD)-Reserve Bank Of India(Core  
+                              Bank System)										
+Duration         :    FEB 2017 to till date
+    
+Project Profile: 
+
+The Reserve Bank of India (RBI) collects large volume of data from banks for monetary policy formulation, supervision and regulatory compliances and promoting research by disseminating a wide range of statistics. A number of departments in RBI, depending on the role assigned to them, are involved in collection, compilation and analysis of these data. Presently, these data are collected in fixed format returns. There have been several issues on data quality, data integrity and timeliness of data submission. 
+Presently, banks have been using excel based template/format where banks are entering the data and sending it to RBI as per the prescribed formats for reporting various returns to FIDD. The objective of the present project is to make the reporting system  form-less  and dynamic so that as and when new dimensions are added, the same will flow automatically to this system without making any changes in the design.  
+
+	Project  Title
+	FIDD-RBI(CBS)
+
+	Client Name 
+	Reserve Bank Of India
+
+	Environment
+	Informatica 9.6.1, Oracle 10g,BO 4.1
+
+	Role
+Designation
+	ETL developer and support	
+Consultant
+
+	Technologies Used
+	Informatica Power Center 10.0.0, SQL, PL/SQL,Universe Design Tool, Shell Scripting
+
+
+
+Contribution / Highlights:
+
+  Involved in requirement gathering phase of the project.
+  Involved in data cleansing phase. 
+  Developed ETLS  to load data from bank servers.
+  Developed ETLS to load data from various flat files (converted XLS files to flat files) and  generated the report for the same in BO.
+  Worked on automation of the data extraction process.
+  Scheduling ETL through informatica.
+  Worked on performance tuning in SQL queries related to project.
+
+Company Name : Zensar Technologies
+
+1. Project Name:  TL9000, Cisco US.
+ 	Duration: July 2015 to Nov 2016
+	
+	Project  Title
+	TL9000
+
+	Client Name 
+	Cisco, US
+
+	Environment
+	Informatica9.6.1, Oracle 10g, Dollar universe 5.3.1
+
+	Role
+Designation
+	ETL Developer	
+Software Engineer
+
+	Technologies Used
+	Informatica Power Center9.6.1/9.5/8.6.1, SQL, PL/SQL, Dollar Universe 5.3.1, Unix, Kintana, Artifactory.
+
+
+
+Project Profile:
+
+TL9000 is a Quality Standard for Telecom developed by QuEST Forum in 1998.
+The generation and submission of TL 9000 Measurement data is required to achieve and maintain TL 9000 certification for selected Cisco products. Likewise, the generation and submission of customer specific measurement data is necessary to meet contractual and service level agreements with Cisco customers.  
+
+Contribution / Highlights:
+
+  Involved in various phases of ETL analysis of the system.
+  Prepared document on ETLs involved in populating data for particular reports.
+  Maintained data related to ETLs, backend tables getting populated through ETL.
+  Worked on performance tuning of ETLs and oracle scripts.
+  Prepared the analysis documents which will help in identifying ETLs and Scripts involved in Dashboard refresh.
+  Worked on enhancement in ETL INFORMATICA mappings.
+  Transferred mappings from Development environment to current production environment.
+  Effectively used tools like TOAD for testing purpose.
+  Hands of experience on Dollar Universe tool to maintain ETL and Script execution flow.
+  Involved in meetings with client for understanding development scenarios, enhancement user stories and Database issues.
+  Involved in implementing user stories raised by business. 
+  Create mappings using different transformations like Expression, Aggregator, Sequence Generator, Look-up, Joiner, Filter and update strategy transformations which are extensively used in the project.
+  Altering mapping for changes suggested by business  in metrics 
+  Unit testing of the developed mappings.
+  Resolve Bugs in mapping by debugging the mapping.
+  Providing solutions to the business for the Production issues
+	
+2. Project Name:   ITDS-COVC										
+Duration: Mar 2014 to Jun 2015
+
+	Project  Title
+	ITDS-COVC
+
+	Client Name 
+	Cisco, US
+
+	Environment
+	Informatica 9.6.1, Oracle 10g, Dollar universe 5.3.1
+
+	Role
+Designation
+	ETL developer and support	
+Software Engineer
+
+	Technologies Used
+	Informatica Power Center 9.6.1/9.5/8.6.1, SQL, PL/SQL, Dollar Universe 5.3.1, Unix, Kintana, Artifactory
+
+
+
+Project Profile: 
+
+Cisco Systems Inc, is one of the leading company who supply network hardware and software solutions to its customers across the world. The purchase order data, shipments data, forecasting data, sales data  needs to be maintained in data warehouse where ETL plays vital role in extracting data from the different table, and  transform it and load it into Data warehouse. Once data received it gets processed through ETLs and reflected on various Dashboards whose backend support is provided by team.
+
+Contribution / Highlights:
+
+  Involved in various phases of ETL analysis of the system. 
+  Analyzed various Informatica ETL s and prepared the analysis documents.
+  Performed Fixes for the flaws found in the existing ETL s using Informatica.(Added Email alert systems in ETL s, Added command tasks in existing ETL s)
+  Real time job monitoring through Dollar Universe job Monitor and the Informatica Workflow monitor.
+  Worked on performance issues and bug fixes.
+  Worked on Kintana deployment for production deployment.
+  Worked on DB Doppler tool for performance issues.
+
+Achievements
+  Conducted Informatica and SQL,PL-SQL trainings  
+  Participated and won prizes in RPG level competitions.
+  Part of CSR social activities.
+  Arranged various team events like floor games, technical events.
+
+Educational Qualification
+
+	Qualification
+	College/ University
+	Year
+	CGPA /  %
+
+	B.E  
+(Computer Science)
+	KKWIEER Nasik/ Pune University,
+	2013
+	67.46
+
+	12th
+	Pune University
+	2009
+	78.17
+
+	                   10th
+	Pune University
+	2007
+	83.23
+
+
+
+Personal Information
+  Date of Birth : August 19,1991
+  Languages: Hindi, English, Marathi (Read, Write, Speak)
+  Interests: Listening music, Photography, Cooking.
+
+Declaration:
+I hereby affirm that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.
+
+
+Place: Mumbai     							             Signature
+Date: 24-July-2019
+									    (MRUDULA MAHADIK)
+
+
+
+

@@ -1,0 +1,11 @@
+Job Description:
+Data Scientist (Big Data) vacancy, located in Staines, Greater London, will see you utilise your Data Science, programming and data modelling skills to develop the latest in wearable technologies. This is a fantastic Data Scientist (Big Data) vacancy with a great team within a blue chip company. This vacancy presents the chance to work in an innovative company, one of the current market leaders in their field.
+Successful candidates will be responsible for:
+Turning complex technical requirements into detailed design
+Working on big data projects to turn large amounts of data information into understandable working solutions.
+Eligible Data Scientist (Big Data) will have a Masters/ PhD in Computer Science or relevant subject;
+Be proficient in the following programming languages: Python (NumPy, Pandas ect.), R, Octave, C++, Java
+Experience working with big data sets
+Worked with pre-processing tools like Hive, Impala, Spark
+Good Exposure to SQL and databases (MongoDB, DynamoDB etc.)
+Experience in one of the following would be beneficial: collaborative filtering, clustering, classification, segmentation, regression, decision trees, statistical models, healthcare domain, Hadoop Ecosystems.

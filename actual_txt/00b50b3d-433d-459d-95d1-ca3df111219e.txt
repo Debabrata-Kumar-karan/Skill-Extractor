@@ -1,0 +1,218 @@
+PN JUVEE
+Hyderabad | pnjubi@gmail.com | (+91) 9776930166
+
+OBJECTIVE
+
+I aim to build a career with the emerging technologies, improvising my skill set by flexibly adapting new technologies
+and to create a mark by contributing significantly to the domain, working with dedicated professionals.
+
+SUMMARY
+
+Working in ETL with a professional experience of 4.10+ years, I   ve worked in Requirement Analysis, Configuration
+Management, Estimation, Design Patterns, Development Process, Service Support , Maintenance & Enhancement
+Process.
+
+SKILLS &
+ABILITIES
+
+I   m an ETL developer proficient in Informatica PowerCenter, IBM Datastage, SQL scripting and Unix scripting
+TECHNICAL SKILLS
+INFORMATICA POWERCENTER,IBM DATASTAGE,SQL,UNIX SHELL SCRIPTING
+
+TOOLS
+INFORMATICA POWERCENTER,IBM DATASTAGE, SQL SERVER MANAGEMENT STUDIO,TOAD,HP ALM
+
+DATABASES
+DB2, ANSI SQL
+
+OTHER SKILLS
+MS OFFICE
+
+DOMAIN
+KNOWLEDGE
+
+RETAIL & CG
+
+Being a part of Wal-Mart Stores Inc., as my first client, worked and got acquainted with Retail domain.
+INSURANCE
+
+Working with Farmers Insurance as my second client.
+
+EXPERIENCE
+
+ASSOCIATE at COGNIZANT TECHNOLOGY SOLUTIONS
+28TH JANUARY, 2014 - PRESENT
+
+Projects/Accounts:
+
+1. Data Stage Upgrade (version 8 to version 9) (Wal-Mart) :
+(Aug 2014     March 2015)
+   
+   
+   
+   
+   
+
+Responsible for analysis, requirement gathering, design and delivery
+Participate in discussions and reviews session with SMEs.
+Design of High & Low level Design Document
+Unix script modification and testing
+Upgradation of all the etl components from datastage version 8.0.1 to 9.1.2.
+
+Tools Used :
+IBM Datastage v8.0.1,IBM datastage v9.1.2
+
+Database:
+MS SQL server 2014
+
+PAGE 1
+
+2. GIP China MDM Supplier (Wal-Mart) :
+(March , 2015     Aug, 2015)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+Feasibility analysis of etl requirements.
+Co    ordinate with technical and functional SMEs for clarification.
+Worked on various transformations of datastage like Sequential File, Data Set, Transformer, Aggregator,
+Lookup, Join, Sort, Copy, Merge, Funnel, Remove Duplicate and Filter
+End to end implementation of ETL layers.
+Understanding the project architecture.
+Performance improvement of existing jobs (creating partitions, SQL query tuning etc)
+Error handling and problem fixing in IBM Datastage.
+Unix script creation, modification and testing
+Created various documents like Unit test case document, technical design documents.
+
+.
+
+Tools Used:
+IBM datastage v9.1.2
+
+Database:
+MS SQL server 2014
+
+3. Farmers MDM implementation (Farmers Insurance):
+( September , 2015     December 2016)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+Responsible for analysis, requirement gathering, design and implementation.
+Created ETL mappings, sessions, worklets, workflows as per the business requirement.
+Understanding the project architecture.
+Worked on various transformation like source qualifier, look up, aggregator, expression, joiner, update
+strategy, filter, router, xml generation transformation etc.
+Created various task s like session, email, command, decision control etc.
+Implemented SCD1 and SCD2 concept as per the requirement.
+Created various documents like mapping document, data model, high level and low level technical design
+document, unit testing document
+Created various scripts to call from the etl jobs as per the requirements.
+Creation and modification of unix script to handle new requirements.
+Unit Testing and capturing test logs.
+Error handling and problem fixing in Informatica Power Center.
+Handling high and normal severity tickets related to production support activities.
+
+Tools Used:
+Informatica Power Center v9.6.1,Informatica Power Center v10.1,Toad
+
+Database:
+DB2
+
+PAGE 2
+
+4. Farmers CDO MDM SS Support (Farmers Insurance)
+( Jan , 2017     Present )
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+Feasibility analysis, design and estimation of etl requirements.
+Worked on data extraction, transformation and loading data from various source systems like Database, flat
+files, xml source
+Responsible for all activities related to the development, implementation, administration and support of ETL
+processes for large scale data warehousing using Informatica power center.
+Experience in tunings of mappings, identifying and resolving performance bottlenecks in various levels like
+sources, targets, mappings and sessions.
+Well versed in developing complex SQl queries, unions, multiple table joinings. .
+Experience at creating effective unit test cases to ensure successful execution of the code piece.
+Created various reports required for analysis purpose before and after data loading to target database.
+Written documentation to describe program development, logic, coding, testing, changes and corrections.
+Used various transformations like source qualifier, expression, sorter, aggregator, joiner, union, filter, lookup,
+update strategy, xml generation, xml parser etc.
+Created various new mappings along with modification of existing mappings based on the user requirements.
+Tuned the performance of mappings by following Informatica best practices and also applied several methods
+to get best performance by decreasing the run time of workflows.
+Provided prod support activities along with handling of high to normal severity tickets.
+Designed complex mappings involving constraint based loading, target load order.
+Delivered knowledge transfer session to new team members recruit for the project
+
+Tools Used:
+Informatica Power Center v10.1, Toad
+
+Database:
+DB2
+
+EDUCATION
+
+C.V.RAMAN COLLEGE OF ENGINEERING, BHUBANESWAR
+B. TECH (MECHANICAL ENGG.)
+
+Year of 2013     8.4(CGPA)
+VIKASH JUNIOR COLLEGE, BARGARH
+XII STD.
+
+Year of 2009     84. %
+SRI AUROBINDO SCHOOL ,SUNDARGARH
+X STD. Year of 2007     87%
+
+PAGE 3
+
+PERSONAL
+DETAILS
+
+PERMANENT ADDRESS
+AT-PO : Bargaon, C/O-Dasharath Naik, Dist : Sundargarh, PIN-770016
+DATE OF BIRTH
+25th June, 1992
+NATIONALITY
+Indian
+PASSPORT NUMBER
+L3605365
+LANGUAGES KNOWN
+English, Hindi, Odiya
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+PN Juvee
+28th Nov, 2018
+
+PAGE 4
+
+

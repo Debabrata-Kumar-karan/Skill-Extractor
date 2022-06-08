@@ -1,0 +1,141 @@
+MOHAMMAD KHALEEL                                                                  E-mail: khaleelmd963@gmail.com
+H.No:26-86/1,                                                                                          Mobile: 91-9989835977
+Venkataramreddy Nagar, Balanagar,
+      Sky Id: mohammad.khaleel85
+Hyderabad-55
+Professional Summary:
+Over 9 Years of experience as Assistant System Administrator and 6 Years as System Administrator upgrading systems, including hardware, network, Antivirus, databases, servers and peripheral equipment s.
+
+Professional Experience: 
+  Microsoft Certifies Professional (MCP): Windows 2007 (070-236) Year of Certification 2007, ID:   5723217
+
+  Excellent knowledge in Sales, Purchases, Finance and Banking Modules in SAP B1.
+Excellent knowledge on Administration, Master data, Sales Opportunity, Sales A/R, Inventory, Purchase A/P, Financials, Banking    Modules.
+
+  Evolution of same on virtual server preparing Documentation for same  Implementation of  ADC, DNS, DHCP, Exchange 2003/2007 & antivirus Server
+  Planned and Scheduled Backups of Server & client Systems
+TECHNICALSKILLS: 
+Servers: IBM e-Server X-series 100, 225, 3650, Wipro Server Net Power Z1505-194 Hp ProLiant ML110 GL7.
+Operating Systems: Windows Server 2003, 2008, 2008 R2 & Windows XP/Vista/7, 8. 
+Network Equipment s: Sonicwall NSA 2400, Hardware firewall Netgear, Network.
+Networking: TCP/IP,  DNS, SMTP, FTP, DHCP, HTTP, HTTPS.
+
+Email Servers: Windows Mail Exchange Server 2003/2007
+Database: Sql2005/2008/2012, SAP B1 implementation and maintenance
+Software Install Configuration: VB.NET, SQL Server, Outlook Express, MS Outlook, Server 2003, 2008, 2008 R2. Anti-Virus: E-scan Server, Quick heal admin console 5.3, Symantec Antivirus domain, Kaspersky K7 Total.
+WORK EXPERIENCE: 
+
+1. I work with TA HYDRUALICS PVT LTD as System Administrator from September 21, 2012 to till date at Bala Nagar, IDPL, Gandhi Nagar, and Hyderabad. 
+
+2. I worked with Cybermotion Technologies PVT. LTD as System Administrator from Dec 1st, 2010 to September 17th, 2012 at Banjara Hills, Hyderabad. 
+
+3. I Worked with ICFAI (IBS RESEARCH CENTRE-HQ). Hyderabad as Assistant System Administrator from March21, 2006 to November 30, 2010 at Punjagutta Hyderabad.
+
+4. I Worked with Railway Telecom Project as Technician from 2002 to   2006 S C Railway Secunderabad. 
+
+ROLES & RESPONSIBILITIES:
+
+  Windows Sever 2003/08, Desktop OS windows 7, 8, and 10 configuration and Troubleshooting.
+
+  Active directory Management: Creating users, Groups, OU s and Group Policy Management.
+
+  File Server Configuration and Management.
+  Fully responsible for technology implementation on servers.
+
+  Network Management ie: DHCP and Wi-Fi Access point Configuration
+
+  Backup and Storage scheduling Backups.
+
+  Data center Management and Co coordinating with Vendors for Hardware, Software, support and Services
+  Maintains network performance by performing network monitoring and analysis, and performance tuning; network problems and Troubleshooting O/S boot problems.
+  Daily Reporting on IT Infrastructure Health Status & IT asset Management ( ie:Hardware and Software licenses)
+
+  Trouble shooting Laptops, Desktops, Servers, Network Devices and Public Key Infrastructure (PKI), 
+  Installing and Configuring Microsoft Exchange server 2007.
+
+  Creating mailbox for users.
+
+  Ipad,Iphone, smart phones, connections with outlook email or other mail host.
+  Making sure all the systems are up-to-date with the security patches
+  Installation and configuration of local and network printers
+
+  Performing driver updating, installing patches and antivirus updating.
+  Maintaining File Server,
+  Maintaining of SQL backup, 
+
+  Configuring and troubleshooting Outlook-Email.
+
+  Messaging Outlook Express, MS Outlook , SMTP, POP, IMAP
+  Diagnosing and Troubleshooting display problems such as VGA cable
+
+  SQL Server Installing and Configuring backup and Restore.
+  Installing local area network cabling systems and equipment
+  Remote administration of RSA server for remote access of the clients.
+
+  Configuring, managing and troubleshooting the router based network.
+  Diagnoses and resolves end-user network or printer problems, desktop/laptop/server related problems, e-mail, Internet, VPN and local-area network access problems.
+
+  Installed DVR Based CCTV Cameras for Surveillance and remote monitoring
+  Vendor management and coordination. Inventory management and maintenance.
+  Maintenance of Focus Administrator( Sale, Purchase, Production, Finance)
+  Maintenance of Tally and SAP B1 Administrator (Administration, Financials, Sales opportunities, Sales-A/R, Purchase-A/P, Business Partners, Banking, Inventory, Production, Services, HR, Reports).
+  Gathering requirements for the development of Interface.
+  System Initialization, Setting up of Authorizations 
+  GL Account Determination , Chart of Accounts - Global / Segmented 
+  Setting up of warehouses 
+  Creation of Tax codes and Tax types, Tax code determination.
+  Profit Centres, Foreign Currencies
+  Recurring Posting, Invoice Postings.
+  Importing data through Data Transfer Workbench and Excel Import
+  Advance payments, Payments, Deposits
+  Print Layout Designs and Crystal Reports.
+Education:
+
+  Bachelor Degree  from Kakatiya University 1995- 1998
+  Diploma in Computer Programming 1994-July 1995
+  Intermediate from Govt Junior College, Siripuram, Khammam 1992- 1994
+  SSC from Govt Junior College, Madhira, Khammam 1992
+Certifications:
+
+  PGDCA Diploma in Computer Application (Andhra Pradesh Electronics Development Corporation Limited) July 2000-2001
+
+  Diploma in Hardware and Networking from Government of Andhra Pradesh Department of Technical Education, Masab tank, Hyderabad 
+
+  MCPIT Training from Zoom Technologies
+
+  MCSE from Sun Mars Institute
+
+PERSONAL PROFILE:
+
+Name                          
+: Mohammad Khaleel
+
+Father's Name             
+: Mohammad Afzal
+Date Of Birth
+
+: 07-03-1977
+
+Gender
+
+
+: Male
+Marital Status
+
+: Married
+
+Nationality
+
+
+: Indian
+
+Passport No
+
+: L7094434 (Issue Date 04.02.2014/Expiry Date 03.02.2024)
+Languages Known             
+: English, Hindi, and Telugu.
+                I hereby declare that the above furnished information and details are true as per my knowledge.
+Date:
+                                                                                                                                                    Md. Khaleel                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+

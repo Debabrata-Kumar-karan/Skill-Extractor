@@ -1,0 +1,26 @@
+Data Scientist (Multiple Openings)
+Statistical Analyst & Machine Learning Engineer
+We require professionals who are having knowledge of following skills:
+Key Skills:
+1. Python language
+2. Statistical & Mathematical Modelling
+3. Data mining
+4. Understanding of the Business logic
+5. Machine Learning & Artificial Intelligence
+About the Role:
+The Data Science team is currently seeking a Data Scientist to join our dynamic organization. This person will make key contributions to the development and improvement of existing products functionalities with regard to predictive analytics (Machine Learning, Data Mining, Artificial Intelligence) and contribute to the enhancement of solutions and of their market value. This person will be involved in the new Big Data initiatives within the company. This person is expected to be comfortable working with large real-life datasets, contributing to research and other internal initiatives as a software engineer as well as a predictive modeler with knowledge and experience in applied statistics, machine learning, artificial intelligence or data mining.
+What you will do:
+    • Develop, implement and integrate data mining and machine learning algorithms, arising from the research process, into the products.
+    • Collaborate with internal product development teams both on-shore and offshore.
+    • Execute and analyze quantitative experiments to characterize expected and actual algorithm performance.
+    • Improve algorithms to ensure the high quality and efficiency standards required by all solutions
+    • Conduct ad-hoc analyses and studies as directed by management on priority projects.
+    • Conduct design and code reviews.
+Required Skills:
+    • 4+ years of experience with Data Science, Machine Learning & Artificial Intelligence.
+    • PhD or Master degree in Computer Science, Data Mining, Machine Learning, Engineering, or other relevant technical fields.
+    • Strong proficiency working with relational databases and ability to write SQL queries.
+    • Hands-on data analysis experience, NLP (Natural Language Processing) etc.
+    • Excellent written and communications skills in English
+Employment Type: Full Time
+Work Location: Ahmedabad & Work From Home

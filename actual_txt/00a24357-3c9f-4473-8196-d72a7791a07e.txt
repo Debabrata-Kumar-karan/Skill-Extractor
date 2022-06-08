@@ -1,0 +1,133 @@
+Purti Gupta
+SAP BW/HANA Consultant
+Email: purtig4@gmail.com
+Mob: +91 7898846085
+
+
+PROFESSIONAL SUMMARY 
+
+   Total 3 years of experience as SAP BW/HANA Consultant in TATA Consultancy Services.
+   Currently I am in Cognizant and searching for Project. 
+   Have work experience in Production Support Project in SAP BI 7.5.
+   Experienced in meeting deadlines and handling clients with rapport.
+   Excellent Interpersonal skillsand Analytical skill and ability to work effectively in a team environment.
+
+EXPERIENCE SUMMARY
+
+   Experience in complete life cycle - data extraction, data modelling& reporting.
+   Experience in loading Master and Transactional data from R/3 system and flat files into BW system.
+   Worked extensively on LO Cockpit. Utilized Standard Data sources with LO Customizing Cockpit for extracting the data from different logistics.
+   Have great understanding of all the new concepts of BW like Column Storage, LSA ++ Architecture , Flat schemas, Semantic Partition,  Operational Data Provisioning(ODP)/ODQ, Open ODS view, Fieldbased modelling ,Composite Provider, ADSO, Integration of SAP Hana  Models into SAP BW.
+   Knowledge of ECC standard tables used in LO extraction and good understanding of deltamechanism and delta process being used in it.
+   Extracted the data from LO, CO-PA and generic extractors (based on table, view and function module) and usedInitialization with Delta Update and Full Update methods.
+   Experienced in modeling, extracting, transforming, and loading (ETL) data into data targets for reporting for MM, SD,and FI/CO modules.
+   Experience in system maintenance tasks Delta queue cleaning, Setup table deletion validation.
+   Worked on Management Work Bench with creating and maintaining InfoObjects, DSO, InfoCubes, Multi-providers, DTP, Transformations, ADSO, Composite Provider and Open ODS View.
+   Experience in creation of Info-package Transformations, Start Routines, End Routines and installing BW standard objects from BI content..
+   Created and modified Queries based on the user requirement using , Formulas, Calculated KeyFigures, Restricted Key Figures , free characteristics , filters, Structures, Variable, ,Conditions, Exceptions in BW Query Designer to generate required reports.
+   Experience in creating, monitoring and scheduling the Process chains using various processes to automate data loading.
+
+
+
+
+
+SKILL SETS
+
+Business Intelligence: SAP BW on HANA, SAP BW 7.5
+ETL: SAP BW
+ERP: SAP ECC
+Platforms: MS Windows XP/Vista/Window 7 / Window 8/Windows 10
+Productivity Tools: MS Office Suite
+
+PROJECT DETAILS
+
+Project:  SAP BW     NIKE INC.
+(November 2016- Current)
+
+Responsibilities:
+
+   Working as a BW-HANA Consultant for the US based client NIKE Inc.
+   Involved in development of various Data targets and Info providers like DSO, Info-cubes, Info objects, Multiproviders using TcodeRSA1 .
+   Involved in Creating and managing the ADSOs, Composite providers and open ODS views on BW modeling in ECLIPSE.
+   Involved in creating, Scheduling, Monitoring and resolving the Process chains failures like Erroneous PSA records, TRFCs failure, DTP failure etc.
+   Involved in Managing Info-cubes, which involves info cube content, performance issue like indexes, compression of info cube and rolling up the data to the Aggregates.
+   Involved in Creating and managing attribute views, calculation views and Analytic View.
+   Involved in resolution of data load failures. Data load & job monitoring during testing. Taking Proactive actions to correct them and stop its reoccurrence. 
+   Analyzing& resolving all issues reported by user. Analyzed the errors, found the root cause of errors, and provided corrective solution. 
+   Involve in scheduling and attending the calls with users along with multiple teams (ABAP Team and OM Teams) toget the high urgency issue resolved within its time limits.
+   Involved in data loading (Initial/full/delta/repair full), Scheduling and Monitoring.
+   Created and changed Queries in Bex Query Designer and also created broadcasted settings to broadcast the report to Portal.
+   Experience in debugging the DTPs to find out the errors.
+   Worked on issue related to workbook refreshing and settings. Also have experience in the workbook based on multiple queries..
+   Extensively Worked on LO Cockpit (LBWE) and performed necessary procedures like deleting setup tables,    lling up of setup tables(Using script and manually) and loaded data from ECC to BI system.
+   Worked on the data reconciliation issue in BW and in different module of ECC likeSD, MM, FI and CO-PA.Have good understanding of standard T-codes and tables of R/3 systemwhich help in analyzing the issue.
+   Extensively Worked on Coverage Report(Sales Order Allocation/Demand-Supply scnario)issues such as there is mismatch in ECC transaction and in Coverage report(End user access this report as Cognos).
+
+
+TRAINING ATTENDED
+
+   Attended training in SAP ABAP.
+   Experience in creation Domain, Data Element, Table, Structure and View.
+   Knowledge on creation of Function Module.
+
+
+ACHEIVEMENTS / AWARDS
+
+   On the spot award for NIKE INC. production support project.
+
+EDUCATION DETAILS
+
+   Bachelor of Engineering in Electronics and Communication from Medicaps Institute of Technology & Management, Indore.
+
+PERSONAL DETAILS
+	Date of Birth
+	:
+	20-Feb-1995
+
+	Father   s Name
+	:
+	Mr. Ramesh Kumar Gupta
+
+	Email ID
+	:
+	Purtig4@gmail.com
+
+	 Mob.
+	:
+	+91 7898846085
+
+	Nationality                                                              
+	:                                    
+	Indian
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+
+
+
+	
+	
+	
+
+
+
+

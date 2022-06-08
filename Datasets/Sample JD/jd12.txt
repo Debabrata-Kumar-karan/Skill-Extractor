@@ -1,0 +1,11 @@
+Job Description:: 
+Our client, a large Professional Services firm, is looking to hire an AWS Cloud Platform St Engineer for a 6 month contract to hire opportunity.  The Engineer will work remotely supporting a large medical device company as  part of a group of 8 experienced employees and 9 contractors in this practice team.
+ The consultant will be working to design and build cloud platform solutions in partnership with the application teams in AWS. 
+Required Skills:
+    • AWS project experience
+    • IaaS (Infrastructure as a Service) – Teraform (preferred) or Cloud Formation
+    • Good infra backbone with Server and Network experience
+    • Scripting (Python or Node.js)
+    • Linux Admin skills (use the command line, Bash shell, etc)
+Desired Skills:
+    • Strong Azure cloud engineering experience as well

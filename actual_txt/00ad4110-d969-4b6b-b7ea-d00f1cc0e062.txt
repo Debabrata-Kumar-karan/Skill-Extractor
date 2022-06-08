@@ -1,0 +1,259 @@
+
+Rohinee Shinde
++919766985507
+rohineeshinde18@gmail.com
+18th October 1991
+Survey No.282, Plot No.76, Vasundhara Co-Op.
+Housing Society, Flat No.2, Tanaji Nagar, Chinchwad, 
+Pune- 411033.
+
+	Experience Summary:
+
+	  Total 5.6 years of experience in Java development
+  Currently working as Lead Technology at Synechron Technologies, Pune 
+  Worked as senior software engineer with Persistent Systems Ltd. Pune. 
+  Exposure to each of the phases of Software Development Life Cycle (SDLC), developing projects from stage of concept to full implementation
+  Hands-on experience in R3 Corda(DLT), Java, Spring boot, Hibernate, REST
+
+
+
+	Achievements:
+
+	  Received Surpass Award for Ownership of task & accountability at Synechron Technologies.
+  Received client appreciation of exceptional work on BoardReader usage utility.
+  Paper on  Web based Log Analyzer Tool  published in International Journal of Engineering Research & Technology (IJERT)Vol. 1 Issue 8, October   2012ISSN: 2278-0181
+
+
+
+	Educational Credentials:
+
+	Course
+	Board/University
+	Year of Passing
+	Class
+	Percentage
+
+	B.E(Computer Engineering)
+	
+Pune University
+	
+2012-2013
+	
+Distinction
+	
+71%
+
+	Diploma in Computer Engineering
+	MSBTE
+	2009-2010
+	Distinction
+
+	88.41%
+
+	S.S.C
+	Maharashtra Board
+	2006-2007
+	Distinction
+	84.92%
+
+
+
+
+
+
+
+	Technical Skills :
+
+	Operating Systems
+	MS Windows, Linux
+
+	Blockchain
+	Basic blockchain concepts, R3 Corda(DLT) 
+
+	Frameworks
+	Spring Core, Spring IOC, Spring MVC, Spring Boot, Hibernate
+
+	Core Java
+	Collections API, Multithreading, Exception Handling Generics, Concurrency Packages, Design Patterns
+
+	Web Technologies and Services
+	Web Services, Microservices, RESTful  webservices, JSON
+
+	Tools/Methodologies
+	Intellij IDEA, Eclipse, STS , Maven, Git, Putty, Jenkins, WinSCP, Docker 
+
+	Database
+	MongoDB, Mysql, H2, Postgres 
+
+
+
+	Certification:
+
+	  Corda Certified Developer issued by R3 
+  Course Completion Confirmation Certification for M101J : MongoDB for Java Developers 
+
+
+	Projects:
+
+	 
+Synechron Technologies Pune                                                                                               Nov 2016 To till date
+
+1.Project: Corporate Action                                                                                                    Jan 2019 To Till date
+Client: Internal POC
+Domain: Blockchain
+Role: Developer
+Description: A corporate action is an event initiated by a public company that will bring an actual change to the securities equity or debt issued by the company. 
+The parties involved have hierarchy which is followed during event cascading and sharing. The CorpAction application is built with a network of Corda nodes, services and actors.Issuer creates the Corporate Action event and notifies it to stakeholders. The project depicts accurate life cycle events of corporate action and provides automated processes such as Event scheduling for Reconciliation of Cash and Position, Creating Entitlement Notification and Cash payments and notifications. 
+Team Size: 4 
+Responsibilities:
+1. Analyzing and understanding the client requirements
+2. Worked on creation of data models.
+3. Worked on creating sample request response of end points and generate those in apiary
+4. Worked on development of end points using technologies java, spring boot, REST
+5. Worked on cordapp on creating state, contracts, flow and test cases using kotlin
+6. Worked on unit test cases in repo app using junit, mockito
+7. Worked on deployment of cordapp using dockerization.
+
+Technology: Java 8,Spring Boot, JPA , Hibernate, Springfox-swagger-ui, MySQL, Maven, gradle, apiary, Corda, Kotlin, Docker
+
+
+
+2. Project: Rastreatu Cargo                                                                                     April 2018 To Nov 2018
+Client: Liberty Mutual
+Domain: Blockchain
+Role: Developer
+Description: The POC will demonstrate the ability to create, validate, distribute shipment, ask for quote, issue quote and insurance policy, track IoT alerts, raise claim, offer and settle the claims via Distributed Ledger Technology (DLT). Life cycle events of the Shipment such as validation, issuance of insurance, claim process, and claim payments will be automated
+Team Size: 4 
+Responsibilities:
+1. Analyzing and understanding the client requirements
+2. Worked on creation of data models.
+3. Worked on creating sample request response of end points and generate those in apiary
+4. Worked on development of end points using technologies java, spring boot, REST
+5. Worked on cordapp on creating state, contracts, flow and test cases using kotlin
+6. Worked on unit test cases in repo app using junit, mockito
+7. Worked on deployment of cordapp using dockerization.
+Technology: Java 8,Spring Boot, JPA , Hibernate, Springfox-swagger-ui, MySQL, Maven, gradle, apiary, Corda, Kotlin, Docker
+
+3.Project: Blockchain SEI Trade Finance                                                                  Oct 2017 To Feb 2018
+Client: SEI Global Services
+Domain: Blockchain
+Role: Developer Description: This application is designed to initiate, validate, distribute and settle Overnight, Term and Open-Ended Trade Agreements via Distributed Ledger Technology (DLT). Life cycle events of the trade such as validation, periodic interest and principal payments will be automated. Corporate actions such as substitution, rollover and early termination initiated by the Investment Manager will enhance trade transparency via DLT    I see what you see, I know what you know .
+Team Size: 6 
+Responsibilities:
+1. Engaged in requirement analysis
+2. Worked on creation of data models.
+3. Worked on creating sample request response of end points and generate those in apiary
+4. Developed smart contracts in Corda using Kotlin.
+5. Created States, Flows and various Vault queries in Corda application.
+6. Configure and set up Corda node network for Notary, Oracle and regular Nodes.
+4. Worked on development of end points using technologies java, spring boot, REST
+5. Developed and documented Restfull Web Services using Swagger.
+6. Developed Trade Creation, Settlement, Substitution module to meet its functional requirements.
+7. Developed Push Notification using WebSocket.
+8. Worked on unit test cases using junit, mockito
+Technology: R3 Corda,Kotlin, Java 8,Spring Boot, JPA , Hibernate, Springfox-swagger-ui, MySQL, Maven, Gradle, Apiary
+
+
+
+4. Project: Blockchain Trade Matching and Compression                                          May 2017 To Aug 2017
+Client: JP Morgan Chase
+Domain: Blockchain
+Role: Developer Description: Blockchain is a distributed database that takes a number of inputs and places them into a block. Each block is then 'chained' to the next block using a cryptographic signature. This allows blockchains to be used as a ledger which is accessible by anyone with permission to do so. Blockchain allows users to manipulate the ledger in a secure way without the help of a third party.
+Responsibilities:
+ Analyzing and understanding the client requirements
+Developed exception reports using Java, spring boot and hibernate
+Developed modules for trade pairing configurations functionalities like add, edit, delete and confirm request
+Developed modules for trade matching to get data on the basis of various stastics
+Integration of various services in project like business service, monitoring and DLT service.
+Unit testing of code 
+Technology: Java 8,Spring Boot, JPA , Hibernate, Springfox-swagger-ui, MySQL, Maven
+
+
+5.Project: HSBC Pheonix (POC)                                                                                        Jan 2017 To April 2017                     
+Client: HSBC
+Domain: Payment
+Role: Developer
+Description: HSBC Pheonix is a core banking project under payment domain. The aim of the project was to replace existing AS400 code with Restful micro services. Data is received in xml format from various channels into queue. The received message is of payment type of ISO 2022 format. This xml file is converted into java pojos using maven plugin. The data received is validated for business and technical validation in Drools through micro services and response for the same is generated. The whole process is routed through apache camel
+Team Size: 8
+Responsibilities:
+  Analyzing and understanding the requirements 
+  Developed micro service for validation using Spring Boot
+  Developed event logging in Mongodb Database
+  Developed routing of services through Apache Camel
+Technology: Java, MongoDB, Apache Camel, Spring Boot, Micro Services
+
+
+
+
+
+
+
+
+
+Persistent Systems, Pune                                                                                         Dec 2013 To Nov 2016  
+6. Project: Software Defined Things                                                                                   July 2016 To Oct 2016                                               
+Client: Internal Project
+Domain: IoT
+Role: Developer
+Description: The main objective of this project is to develop a system using IoT domain and Java for parking management and temperature controller. Under parking management, the concept of IoT was used as to display number of available and occupied parking slots. This was done by placing sensors above each parking slot which was connected with java application to monitor availability of parking slots. On similar lines for temperature controller, a dashboard was maintained to monitor AC temperature of working floors as per cubicle locations.
+Team Size: 3
+Responsibilities:
+  Analyzing and understanding the requirements from the client. 
+  Worked on Parking module using Java, Multithreading and apache kafka.
+  Performed research work on integration with this IoT application. 
+
+Technology: Java, Multithreading, MongoDB, Apache Kafka, Git, Rasberry pi
+
+
+7. Project : IBM Opensource Platform (IOP) BigInsight                                                Sep 2015 To Jun 2016
+Client: IBM
+Domain: Big Data
+Role: Developer
+Description: The IBM Open Platform is comprised of entirely Apache Hadoop open source components, such as Apache Ambari, HDFS, Flume, Hive, Pig, Kafka, Knox and ZooKeeper.
+BigInsights-IOP - involved working with IBM BigInsights development team to ensure compatibility of IBM BigInsights IOP packages with different OSs like z-linux, RHEL, Suse, etc. My Role involved detecting potential incompatibilities in BigInsights IOP packages and resolving the conflict to ensure that it runs seamlessly across different OS. Worked with development team members of IBM team and also suggested enhancements to open source packages for big data. Hands on experience on configuring hadoop ecosystem using ambari and experience on Pig, kafka, Ranger knox and Knox.
+Team Size: 10
+Responsibilities:
+  Analyzing and understanding the requirements 
+  Root cause analysis.
+  Enhancements, porting and issue resolution.
+  Development of pig scripts.
+  Multi-Node cluster setup with customized open source components
+  Tested Features of Spark and Slider in different environments such as Kerberos,
+  Producer consumer implementations using Java.
+  Apache Ranger knox configurations with ambari.
+
+Technologies : Java, Apache Ambari, Apache Pig, HDFS, kafka, Knox, Ranger
+
+
+
+8. Project: CCI for CIO                                                                                                            Jan 2014 To July 2015
+Client: IBM
+Domain: Analytics
+Role: Java Developer
+Description: Cognos Consumer Insights (CCI) enables marketing professionals to be more precise, agile and responsive to customer demands and opinions expressed through social media by listening, measuring and analyzing large volumes of publicly available content on the Internet. Our team is part of Analytics division of CIO office which provides analytics solutions to business units within the organization using Big data technologies.
+Team Size: 8
+Responsibilities:
+  Analyzing and understanding the requirements from the client. 
+  Worked on SSM module using Java, Mongodb.
+  Developed a BoardReader usage utility using Java, Spring MVC and Spring Batch.
+  Creating shell scripts to schedule the cron jobs and coding utilities to be triggered on any failure or deviation.
+  Developed a dashboard and various charts like pie charts, time series and sentiments 
+trend.
+Technology: Java, Spring, Spring MVC, MongoDB, Webservices
+
+
+
+
+
+	Hobbies :
+
+	  Drawing
+  Listening Music
+
+
+
+______________________________________________________________________________
+Place: Pune									
+Date:  							Signature 
+
+
